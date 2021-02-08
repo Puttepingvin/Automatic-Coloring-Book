@@ -7,5 +7,4 @@ Turns
 
 into
 
-
 ![Colored image](https://github.com/Puttepingvin/Automatic-Coloring-Book/blob/main/bamse_painted.png?raw=true)
